@@ -10,3 +10,4 @@ MGD game maker is a gdevelop powered tool for making games (targeted for mobile 
 1. visual scripting(scratch type)
 2. full resource handling
 3. Lua support(for love2d)
+4. 3D model import
